@@ -1,0 +1,3 @@
+      The testing that was done was use of the program error warnings and allowing the program to run.
+Once the program was live entering the numbers and comparing the answers to another online calculator to see if
+the answers were the same; is how I checked the program.
